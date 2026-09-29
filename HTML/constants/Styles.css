@@ -1,0 +1,28 @@
+/* pre{
+    color: rgb(186, 58, 58);
+    font-size: 150%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-variant:inherit;
+    letter-spacing: 10%;
+} */
+p{
+    color: rgb(255, 249, 127);
+    font-size: 150%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: 10%;
+}
+body{
+    background-color: rgb(56, 56, 56);
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+    color: rgb(15, 210, 168);
+    font-size: 150%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+}
